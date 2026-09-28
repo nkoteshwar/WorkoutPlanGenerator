@@ -4,7 +4,7 @@
 [![Groq API](https://img.shields.io/badge/Groq_API-F05032?style=for-the-badge&logo=groq&logoColor=white)](https://groq.com/)
 [![Python 3.13](https://img.shields.io/badge/Python-3.13+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 
-An AI-powered single-page Streamlit web application that collects structured inputs about a user's fitness goals, experience level, equipment access, frequency, and physical limitations to generate a safe, highly tailored weekly workout plan using **Groq LLM** (`llama-3.3-70b-versatile`).
+An AI-powered single-page Streamlit web application that collects structured inputs about a user's fitness goals, experience level, equipment access, frequency, and physical limitations to generate a safe, highly tailored weekly workout plan using **Groq LLM** (`qwen/qwen3.8-27b`).
 
 ---
 

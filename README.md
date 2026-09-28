@@ -85,3 +85,11 @@ python -m unittest discover tests
 - **Safety Callout Alerts**: Highlights medical disclaimers if injuries or limitations are provided.
 
 ---
+Sample Output:
+<img width="1834" height="946" alt="image" src="https://github.com/user-attachments/assets/71b41253-36d5-461a-ae53-a60a7a8a61fa" />
+<img width="1777" height="984" alt="image" src="https://github.com/user-attachments/assets/724c08ce-17aa-4fc8-9c37-2726f5ab8fab" />
+<img width="1555" height="747" alt="image" src="https://github.com/user-attachments/assets/338b9988-d124-4eea-a359-d19817b53cee" />
+
+
+
+
